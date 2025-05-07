@@ -7,3 +7,6 @@
 [submodule "Unity"]
 	path = Unity
 	url = https://github.com/nak0x/mundara-unity.git
+[submodule "Website"]
+	path = Website
+	url = https://github.com/nak0x/mundara-website.git
