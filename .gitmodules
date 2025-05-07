@@ -1,0 +1,9 @@
+[submodule "Doc"]
+	path = Doc
+	url = https://github.com/nak0x/mundara-doc.git
+[submodule "Track"]
+	path = Track
+	url = https://github.com/nak0x/mundara-track.git
+[submodule "Unity"]
+	path = Unity
+	url = https://github.com/nak0x/mundara-unity.git
