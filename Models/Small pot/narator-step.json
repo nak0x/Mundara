@@ -1,0 +1,30 @@
+{
+  "steps": [
+    {
+      "title": "Boule de terre",
+      "content": "La modélisation du petit pot commence par la réalisation d’une boule de terre bien homogène. Cette première étape est essentielle pour assurer une base régulière et malléable.",
+      "order": 1
+    },
+    {
+      "title": "Ligne au milieu",
+      "content": "Tracer une ligne au centre de la boule permettait non seulement de mieux tenir les pots pendant la fabrication, mais aussi de faciliter leur suspension ou leur transport une fois terminés.",
+      "order": 2
+    },
+    {
+      "title": "Le volume",
+      "content": "À cette étape, on détermine le volume que le pot devra contenir. Cela implique de creuser et d’élargir l’intérieur de manière régulière pour assurer à la fois la capacité et la stabilité.",
+      "order": 3
+    },
+    {
+      "title": "Le bec",
+      "content": "Pour faciliter le service des liquides, il était courant de façonner un petit bec verseur. Ce détail rendait le pot plus fonctionnel tout en lui donnant une touche esthétique.",
+      "order": 4
+    },
+    {
+      "title": "Socle plat",
+      "content": "En aplatissant soigneusement le fond du pot, on lui assurait une bonne stabilité une fois posé. Cette étape est cruciale pour que le pot tienne debout de manière sûre et durable.",
+      "order": 5
+    }
+  ]
+}
+
