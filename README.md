@@ -1,4 +1,8 @@
-# Mundara Monorepo
+<img src="https://github.com/nak0x/Mundara/blob/main/Design/Githubassets/banner.png?raw=true" alt="Mundara logo" width="100%"/>
+
+# Mundara • Immersive Artisanal World Discovery
+
+Mundara offers interactive workshops enhanced with augmented reality, designed to provide immersive access to the world's artisanal cultures and traditions. Users explore and learn through the craft and culture of their choice. This unique experience blends craftsmanship, discovery, and technological innovation.
 
 This repository hosts all technical parts of the **Mundara project** in a unified monorepo using public Git submodules. It includes frontend, backend, infrastructure, and shared code.
 
@@ -49,6 +53,7 @@ mundara/
 ├─*─ Track/       # 3D Tracking with OpenCV
 ├─*─ Doc/      # Documentation for the project
 ├─── Models/      # 3D models used during the projects
+├─── Design/      # You can find the DA and graphics assets for the projet here
 └─── README.md
 ```
 Each starred subfolder is a standalone Git repository (submodule) with its own README and setup instructions.
@@ -69,6 +74,7 @@ git push
 ```
 
 ## ✅ Notes
+
 No authentication required (all submodules are public).
 
 Use git status to track any submodule changes.
